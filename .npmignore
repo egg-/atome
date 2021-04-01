@@ -1,0 +1,5 @@
+test/
+.travis.yml
+.vscode
+config.json.enc
+Gruntfile.js

@@ -1,0 +1,58 @@
+{
+  "referenceId": "P1293201980299030",
+  "currency": "IDR",
+  "amount": 1201000,
+  "callbackUrl": "https://api.merchant-site.com/apaylater-callback",
+  "paymentResultUrl": "https://www.merchant-site.com/orders/2382178728179823",
+  "paymentCancelUrl": "https://www.merchant-site.com/checkout",
+  "merchantReferenceId": "P1293201980299030",
+  "customerInfo": {
+    "mobileNumber": "+6587654321",
+    "fullName": "Atome Developer",
+    "email": "developer@atome.sg"
+  },
+  "shippingAddress": {
+    "countryCode": "ID",
+    "lines": [
+      "80 Robinson Road",
+      "#09-01",
+      "Singapore, 068898"
+    ],
+    "postCode": "068898"
+  },
+  "billingAddress": {
+    "countryCode": "ID",
+    "lines": [
+      "80 Robinson Road",
+      "#09-01",
+      "Singapore, 068898"
+    ],
+    "postCode": "068898"
+  },
+  "taxAmount": 65500,
+  "shippingAmount": 102000,
+  "originalAmount": 1302000,
+  "items": [
+    {
+      "itemId": "P100",
+      "name": "iPhone",
+      "price": 1102000,
+      "quantity": 1,
+      "variationName": "Black, 128GB",
+      "originalPrice": 1202000,
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "itemId": "P101",
+      "name": "iPhone SE case",
+      "price": 100000,
+      "quantity": 1,
+      "variationName": "White",
+      "categories": [
+        "Accessories"
+      ]
+    }
+  ]
+}
