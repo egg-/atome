@@ -1,5 +1,5 @@
 {
-  "name": "atome",
+  "name": "node-atome",
   "version": "1.0.0",
   "description": "atome module for nodejs.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/egg-/atome.git"
+    "url": "git+https://github.com/egg-/node-atome.git"
   },
   "author": {
     "name": "egg",
@@ -16,9 +16,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/egg-/atome/issues"
+    "url": "https://github.com/egg-/node-atome/issues"
   },
-  "homepage": "https://github.com/egg-/atome#readme",
+  "homepage": "https://github.com/egg-/node-atome#readme",
   "keywords": [
     "payment",
     "atome"
